@@ -1,0 +1,10 @@
+This was a group project between me and friends, I did the programming, some of the circuit design/building,
+independently designed and produced the turret design with integrated bluetooth module and LEDs, and assisted
+with all other CAD design in large part.
+
+This project lacks a lot of photos of the final products, and I do not possess any of the final products
+as there were disputes between team members and ultimately a final product was not achieved due to a lack
+of mutual understanding of requirements and confinements.
+
+Due to the lack of photos and evidence from this project that I remain with access to I do not intend to
+organize or catalogue it with much effort but am more than happy to share insight during my interview.
